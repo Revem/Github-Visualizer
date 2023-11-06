@@ -1,5 +1,5 @@
 
-#  Frontend - Model Viewer - Desafio Técnico Bugaboo Studio
+#  Desafio Frontend - Github Visualizer
 
 Esse é o resultado do Desafio Técnico - Visualizador de Perfil do Github com Integração a API do próprio Github proposto pela Desbravador Software. Este sistema web permite aos usuários visualizarem perfís e repositórios do Github de desenvolvedores.
 
