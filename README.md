@@ -14,7 +14,7 @@ Para executar a parte frontend do projeto, siga estas etapas:
   
 
 ```bash
-git  clone  https://github.com/revem/
+git  clone  https://github.com/revem/Github-Visualizer.git
 ```
 
 2. Navegue até o diretório do frontend:
