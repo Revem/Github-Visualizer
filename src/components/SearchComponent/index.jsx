@@ -22,13 +22,13 @@ export default function SearchComponent({ onSearch }) {
         <Form.Control
           className='searchTerm'
           style={{ height: '2rem', backgroundColor: '#1E2A47', border: '2px solid #1E2A47' }}
-          placeholder='Nome de Usuário do Github'
+          placeholder='Nome do Usuário'
           aria-label='Username'
           aria-describedby='basic-addon1'
           onChange={(e) => setUsername(e.target.value)}
           onKeyDown={handleKeyDown}
         />
-        <a href={'/' + username} className='searchButton' style={{ height: '2rem', fontSize: '1rem', width: '5rem', textDecoration: 'none' }} > <FontAwesomeIcon icon={faMagnifyingGlass} style={{ color: 'white' }} /></a>
+        <a href={'/' + username} className='searchButton' style={{ height: '2rem', fontSize: '1rem', width: '3rem', textDecoration: 'none' }} > <FontAwesomeIcon icon={faMagnifyingGlass} style={{ color: 'white' }} /></a>
       </InputGroup>
     </Form>
   )
