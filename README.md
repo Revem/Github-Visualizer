@@ -5,7 +5,9 @@ Esse é o resultado do Desafio Técnico - Visualizador de Perfil do Github com I
 
 ##  Instruções de Uso
 
-Para executar a parte frontend do projeto, siga estas etapas:
+O projeto está com deploy na vercel: https://github-visualizer.vercel.app/
+
+Caso deseje executar a parte frontend do projeto em sua máquina, siga estas etapas:
 
   
 
